@@ -6,10 +6,12 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class Base {
-	/*
-	 Hello
-	*/
-
+//	/*
+//	 Hello
+//	*/
+//	/*
+//	 Hello hi
+//	*/
 	
 	public static WebDriver launchChrome() {
 		System.setProperty("webdriver.chrome.driver","C:\\SeleniumAll\\106\\chromedriver.exe");
