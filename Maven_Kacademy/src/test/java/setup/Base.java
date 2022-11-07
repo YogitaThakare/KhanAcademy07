@@ -7,9 +7,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class Base {
 	
-	public String userEmail ="kashishyog@gmail.com";
-	public String userPassword = "Rajyog@123";
-	public String url ="https://www.khanacademy.org/";
+
 	
 	public static WebDriver launchChrome() {
 		System.setProperty("webdriver.chrome.driver","C:\\SeleniumAll\\106\\chromedriver.exe");
